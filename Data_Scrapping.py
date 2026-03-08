@@ -7,8 +7,8 @@ print("Fetching data...")
 
 df = yf.download(
     symbol,
-    start="2019-01-01",
-    end="2025-01-01",
+    start="2023-01-01",
+    end="2026-01-01",
     auto_adjust=False
 )
 
