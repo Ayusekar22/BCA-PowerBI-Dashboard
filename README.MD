@@ -71,6 +71,12 @@ The dashboard consists of several key analytical panels:
 
 ---
 
+## Visualization
+
+![Dashboard](Dashboard.jpg)
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
@@ -85,3 +91,5 @@ If you have any questions or feedback, feel free to reach out:
 - **Email:** Ayusekar1822@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ayusekar22/
 - **GitHub:** https://github.com/Ayusekar22
+
+
